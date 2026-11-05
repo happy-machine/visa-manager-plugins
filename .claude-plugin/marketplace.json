@@ -1,0 +1,12 @@
+{
+  "name": "visa-manager-plugins",
+  "owner": {
+    "name": "happy-machine"
+  },
+  "plugins": [
+    {
+      "name": "visa-manager",
+      "source": "./visa-manager"
+    }
+  ]
+}
