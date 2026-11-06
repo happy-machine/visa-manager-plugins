@@ -1,5 +1,9 @@
 {
   "name": "visa-manager",
-  "version": "1.0.0",
-  "description": "Compare Thailand visa options, prepare an application checklist, and organize a stay with Visa Manager."
+  "version": "1.1.0",
+  "description": "Read Thailand visa guides and current news, look up passport-country guidance, and continue to Visa Manager services.",
+  "homepage": "https://visamanager.io/claude",
+  "repository": "https://github.com/happy-machine/visa-manager-plugins",
+  "mcpServers": "./.mcp.json",
+  "privacyPolicyUrl": "https://visamanager.io/privacy"
 }

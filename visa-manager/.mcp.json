@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "visa-manager": {
+      "type": "http",
+      "url": "https://visamanager.io/api/mcp"
+    }
+  }
+}

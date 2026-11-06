@@ -1,6 +1,6 @@
 {
   "name": "visa-manager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Compare Thailand visa options, prepare an application checklist, and organize a stay with Visa Manager.",
   "skills": "./skills/",
   "extensions": {
