@@ -5,5 +5,10 @@
   "homepage": "https://visamanager.io/claude",
   "repository": "https://github.com/happy-machine/visa-manager-plugins",
   "mcpServers": "./.mcp.json",
-  "privacyPolicyUrl": "https://visamanager.io/privacy"
+  "privacyPolicyUrl": "https://visamanager.io/privacy",
+  "license": "MIT",
+  "author": {
+    "name": "Bureau imago",
+    "email": "support@visamanager.io"
+  }
 }
